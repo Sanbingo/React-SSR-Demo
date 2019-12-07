@@ -10,7 +10,7 @@
     "react-router-config": "^5.0.0",
     "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.1",
-    "serialize-javascript": "^1.7.0"
+    "serialize-javascript": "^2.1.1"
   },
   "scripts": {
     "dev:build-server": "NODE_ENV=development webpack --config webpack.server.js --mode=development -w",
